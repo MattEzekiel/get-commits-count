@@ -20,7 +20,7 @@ async function getContributionCount(username, year) {
 }
 
 async function main() {
-    const username = 'MattEzekiel';
+    const username = 'YourUserName'; // Modify this!
     const currentYear = new Date().getFullYear();
     let totalContributions = 0;
 
@@ -29,7 +29,6 @@ async function main() {
         totalContributions += contributions;
     }
 
-    // console.log(`Total de contribuciones en todos los años: ${totalContributions}`);
     console.log(totalContributions);
     return totalContributions;
 }
