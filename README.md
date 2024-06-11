@@ -9,7 +9,7 @@ The workflow is triggered by the following events:
 - 📦 Push events to the `main` branch.
 - 📥 Pull request events targeting the `main` branch.
 - 🖱️ Manual workflow dispatch.
-- ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Fget-commits-count%2Fmain%2Fexample.json) ![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Fget-commits-count%2Fmain%2Fcommit-count-badge.json&query=message)
+- ![Endpoint Badge](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Fget-commits-count%2Fmain%2Fexample.json) ![Commits](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FMattEzekiel%2Fget-commits-count%2Fmain%2Fcommit-count-badge.json&query=message&label=Commits)
 
 ## ⚙️ Workflow Details
 
